@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi there 😄
+I'm yuuron from Japan
 
-<!--
-**yuron3141/yuron3141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=flat&logoColor=white)](https://twitter.com/Bluesky_3141)
+[![GitHub](https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square)](https://github.com/yuron3141)
 
-Here are some ideas to get you started:
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+#### ・Language
+
+![C](https://img.shields.io/badge/C-4640b8.svg?logo=C&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&style=flat&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=PHP&style=flat&logoColor=ccc)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?logo=Ruby&style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=Python&style=flat)
+
+#### ・Frameworks
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&style=flat&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&style=flat&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&style=flat&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&style=flat)
+
+#### ・Others
+![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E.svg?logo=amazon-aws&style=flat&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&style=flat&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&style=flat&logoColor=white)
+
+## Status
+
+![yuron3141 github stats](https://github-readme-stats.vercel.app/api?username=yuron3141&show_icons=true&line_height=24)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuron3141)
