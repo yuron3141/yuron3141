@@ -6,7 +6,7 @@ I'm yuuron from Japan
 
 #
 
-### Skills
+### used Skills
 
 #### ・Language
 
@@ -29,6 +29,7 @@ I'm yuuron from Japan
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E.svg?logo=amazon-aws&style=plastic&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&style=plastic&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&style=plastic&logoColor=white)
+![heroku](https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&style=flat&logoColor=white)
 
 ## Status
 
