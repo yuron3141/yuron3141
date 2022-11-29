@@ -1,9 +1,11 @@
 ## 👋 Hello there
+<div>
 <div><img align="right" src="https://github-readme-stats.vercel.app/api?username=yuron3141&show_icons=true&line_height=24" /></div>
 <div>
 <!-- INTRODUCTION:START -->
 <p>I'm yuuron from Japan.   I love coding.</p>
 <p>I like modern web technology and web cultures.</p>
+<p>I also like playing game and VRChat.</p>
 <p>Nice to meet you! 😄</p>
 
 
@@ -12,6 +14,7 @@
 [![Discord](https://img.shields.io/badge/-Discord-7289da.svg?logo=discord&style=flat)](BlueSky3141#1481)
 
 <!-- INTRODUCTION:END -->
+</div>
 </div>
 
 ## 📝 Recommend My Blog Posts and Activity
