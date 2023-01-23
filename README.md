@@ -33,6 +33,7 @@
 
 ## 💻 Used Skills
 ### 🌱 Studying now
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&amp;logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&amp;style=flat&amp;logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?logo=amazon-aws&amp;style=flat&amp;logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-%230db7ed.svg?logo=docker&amp;style=flat&amp;logoColor=white)
