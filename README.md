@@ -44,7 +44,7 @@
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&amp;style=flat)
 ![Ubuntu](https://img.shields.io/badge/-Linux%20Ubuntu-6F52B5.svg?logo=ubuntu&amp;style=flat)
 
-### 💿 Used (Recently don't use)
+### 💿 Recently don't use
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&style=flat)
 ![C](https://img.shields.io/badge/C-4640b8.svg?logo=C&amp;style=flat)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=PHP&amp;style=flat&amp;logoColor=ccc)
