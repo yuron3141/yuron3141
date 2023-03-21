@@ -5,7 +5,6 @@
 <!-- INTRODUCTION:START -->
 <p>I'm yuuron from Japan.</p>
 <p>I like web technology and web cultures.</p>
-<p>I also like playing game and VRChat.</p>
 <p>Nice to meet you! 😄</p>
 
 
