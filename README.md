@@ -15,16 +15,3 @@
 <!-- INTRODUCTION:END -->
 </div>
 </div>
-
-## 📝 Recommend My Blog Posts and Activity
-
-<div><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuron3141&show_icons=true&locale=en&layout=compact" /></div>
-<!-- BLOG-POST-LIST:START -->
-
-- [次世代のWeb系コンパイラ言語?RustとGoに関してのまとめ](https://yuuronacademy.com/article/2022/12/26/329/)
-- [企業さんの提供しているAPIまとめ](https://qiita.com/yuron3141/items/425933992b10ea74ee20)
-- [Vue.jsでリヴリーアイランドを再現してみた話](https://yuuronacademy.com/article/2022/04/29/85/)
-- 　
-- 　
-
-<!-- BLOG-POST-LIST:END -->
