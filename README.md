@@ -22,7 +22,7 @@
 <!-- BLOG-POST-LIST:START -->
 
 - [ITエンジニア性格診断のフロントエンドをアップデートしました](https://yuuronacademy.com/articles/2022/12/15/307/)
-- [Vue.jsでリヴリーアイランドを再現してみた話](https://yuuronacademy.com/article/2022/04/29/85/)
+- [Vue.jsでリヴリーアイランドを再現してみた話](https://yuuronacademy.com/articles/2022/04/29/85/)
 - 　
 - 　
 
